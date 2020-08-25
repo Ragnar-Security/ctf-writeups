@@ -49,3 +49,5 @@ if __name__ == "__main__":
 After running the script, we are able to retrieve the flag and confirm it is correct. 
 
 ![angr result](img/beginner-angr-result.png)
+
+If you have questions for me, reach out to us on twitter at [@RagnarSecurity](https://twitter.com/RagnarSecurity).
